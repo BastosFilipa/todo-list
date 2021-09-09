@@ -1,0 +1,17 @@
+.todo-list {
+    width: 700px;
+    min-height: 200px;
+    margin: auto;
+    border: solid 1px;
+    border-color: grey;
+    padding: 20px;
+    align-items: center;
+    box-shadow: 5px 5px 2px rgb(0 0 0 / 15%);
+    background-color: beige;
+  }
+
+  .clear-button {
+    margin-top: 5px;
+    display:flex;
+    justify-content: center;
+  }

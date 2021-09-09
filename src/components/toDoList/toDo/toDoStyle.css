@@ -1,0 +1,28 @@
+.todo {
+    margin: 5px 0px 5px 0px;
+    padding: 5px 5px 5px 10px;
+    border: solid 1px;
+    border-radius: 2px;
+    width: 682px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    box-shadow: 1px 1px 1px rgb(0 0 0 / 15%);
+  }
+
+.button-todo {
+    display: flex;
+}
+
+.complete-button {
+    background-color: rgb(211, 233, 220);
+    margin-right: 5px;
+}
+
+.remove-button {
+    color: rgb(214, 132, 132);
+}
+
+
+

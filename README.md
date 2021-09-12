@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+<img width="796" alt="Screen Shot 2021-09-09 at 18 09 45" src="https://user-images.githubusercontent.com/83431040/132998637-a48e96d5-cdc3-4c65-a615-f8fc7d06df2e.png">
+
+
+# todo-list
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
